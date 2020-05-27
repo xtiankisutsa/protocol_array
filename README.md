@@ -6,7 +6,10 @@ execute `protocol_array.js` in Safari on iOS with `librfinder.js` loaded with a 
 
 # CREDIT
 ```
-protocol_array  - @spacepilotAV
+protocol_array         - @spacepilotAV
 
-librfinder      - @spacepilotAV
+librfinder             - @spacepilotAV
+
+OUM and refresh values - the community (for the raw data)
+OUM and refresh values - @spacepilotAV (finding the pattern & putting it in librfinder)
 ```
